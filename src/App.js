@@ -22,7 +22,7 @@ import ursinhos_bebida from "./assets/ursinhos_bebida.gif";
 import ursinha_mordidas from "./assets/ursinha_mordidas.gif";
 import ursinho_pegando_no_sono from "./assets/ursinho_pegando_no_sono.gif";
 import ursinhos_dormindo from "./assets/ursinhos_dormindo.gif";
-import eddyS2Lidiane from "./assets/eddyS2Lidiane.jpeg";
+import my_lovely_girl from "./assets/my_lovely_girl.jpg";
 
 const App = () => {
 
@@ -32,171 +32,171 @@ const App = () => {
         imageUrl={ursinho_pandinha_ok}
         bgColor={colors.red}
         textColor={colors.white}
-        title="Estes são Ursinho e Pandinha"
-        text="Eles se conhecem a um bom tempo, e foram amigos, mas hoje são além disso... eles estão namorando."
-        btnText="Saiba mais"
+        title="These are Teddy Bear and Panda"
+        text="They have known each other for a long time, and were friends, but today they are more than that... they are dating."
+        btnText="Know More About Us"
         sequency="1"
       />
       <Screen
         imageUrl={ursinho_estudando}
         bgColor={colors.blue}
         textColor={colors.white}
-        title="Ursinho"
-        text="O ursinho é muito estudioso e engraçado sempre faz a pandinha rir, mas ele é bem lerdo e nem sempre entende o que a padinha quer dizer."
-        btnText="Continuar"
+        title="Teddy Bear"
+        text="The Teddy Bear is very studious and funny, he always makes the little Panda laugh, but he is very slow and doesn't always understand what the little panda wants to say."
+        btnText="Continue"
         sequency="2"
       />
       <Screen
         imageUrl={pandinha}
         bgColor={colors.pink}
         textColor={colors.white}
-        title="Pandinha"
-        text="A pandinha é muito fofinha, sempre se preocupa com o próximo, mas ela não tem paciência alguma. E tem um jeito diferente de mostrar o que sente..."
-        btnText="Continuar"
+        title="Panda"
+        text="The Panda is very cute, she always cares about others, but she has no patience at all. And she has a different way of showing what she feels..."
+        btnText="Continue"
         sequency="3"
       />
       <Screen
         imageUrl={ursinho_S2_pandinha}
         bgColor={colors.red}
         textColor={colors.white}
-        title="Ursinho S2 Pandinha"
-        text="Como ja disse, esses dois hoje são namorados, eles não são perfeitos... mas sempre se ajudam e superam os problemas juntos."
-        btnText="Continuar"
+        title="Teddy Bear <3 Panda"
+        text="As I said, these two are now lovers, they are not perfect... but they always help each other and overcome problems together."
+        btnText="Continue"
         sequency="4"
       />
       <Screen
         imageUrl={ursinha_chorando}
         bgColor={colors.purple}
         textColor={colors.white}
-        title="Pandinha triste"
-        text="As vezes a pandinha fica triste com algumas coisas, e fica chorando e triste... :( Mas o ursinho sempre vem tentar animar ela e quase sempre consegue fazer ela rir"
-        btnText="Continuar"
+        title="Sad Panda :("
+        text="Sometimes the Panda gets sad about some things, and ends up crying and sad... :( But the Teddy Bear always comes to try to cheer her up and almost always manages to make her laugh"
+        btnText="Continue"
         sequency="5"
       />
       <Screen
         imageUrl={ursinho_chorando}
         bgColor={colors.green}
         textColor={colors.white}
-        title="Ursinho triste"
-        text="As vezes é o ursinho que fica triste com alguns problemas, e ai a pandinha vem com seu amorzinho e fofura e ajuda o ursinho quando ele ta tristinho. :)"
-        btnText="Continuar"
+        title="Sad Teddy Bear"
+        text="Sometimes it's the Teddy Bear who gets sad about some problems, and then the little Panda comes with her love and cuteness and helps the Teddy Bear when he's sad. :)"
+        btnText="Continue"
         sequency="6"
       />
       <Screen
         imageUrl={pandinha_martelo}
         bgColor={colors.blue}
         textColor={colors.white}
-        title="Ursinho lerdo"
-        text="O ursinho é lerdo e as vezes não entende o que a pandinha quis dizer exatamente, e entende totalmente diferente..."
-        btnText="Continuar"
+        title="Slow Teddy Bear"
+        text="The Teddy Bear is slow and sometimes doesn't understand what the little panda meant exactly, and understands it completely differently..."
+        btnText="Continue"
         sequency="7"
       />
       <Screen
         imageUrl={pandinha_brava}
         bgColor={colors.yellow}
         textColor={colors.white}
-        title="Pandinha e sua paciência"
-        text="A pandinha é MUITO AMOROSA, mas a falta de paciência é igual... e as vezes ela fica irritada porquê o ursinho é lerdo."
-        btnText="Continuar"
+        title="Panda and her patience"
+        text="The little Panda is VERY LOVING, but the lack of patience is the same... and sometimes she gets irritated because the Teddy Bear is slow."
+        btnText="Continue"
         sequency="8"
       />
       <Screen
         imageUrl={ursinho_catucando_pandinha}
         bgColor={colors.purple}
         textColor={colors.white}
-        title="Insistência do ursinho"
-        text="A pandinha não gosta de ser direta, ai o ursinho vai perturbar a pandinha até ela falar..."
-        btnText="Continuar"
+        title="Teddy bear's insistence"
+        text="The Panda doesn't like to be direct, so the Teddy Bear will disturb the Panda until she speaks..."
+        btnText="Continue"
         sequency="9"
       />
       <Screen
         imageUrl={ursinho_coracao}
         bgColor={colors.blue}
         textColor={colors.white}
-        title="O amor do ursinho"
-        text="Ai o ursinho depois de horas tentando explicar, pede desculpas por ser lerdo e fala o quanto ama a pandinha."
-        btnText="Owwwwn <3"
+        title="Teddy Bear's love"
+        text="Then the Teddy Bear, after hours of trying to explain, apologizes for being slow and says how much he loves the Panda."
+        btnText="Love Pandaa <3"
         sequency="10"
       />
       <Screen
         imageUrl={pandinha_coracao}
         bgColor={colors.yellow}
         textColor={colors.white}
-        title="O amor da pandinha"
-        text="A pandinha por trás de toda sua falta de paciência tambem ama o ursinho, e caba falando que ama ele tambem."
-        btnText="Owwwwn <3"
+        title="Panda's love"
+        text="The Panda behind all her lack of patience also loves the Teddy Bear, and ends up saying that she loves him too."
+        btnText="Love Teddy Bear <3"
         sequency="11"
       />
       <Screen
         imageUrl={ursinhos_apaixonados}
         bgColor={colors.red}
         textColor={colors.white}
-        title="Depois disso..."
-        text="Depois de tudo resolvido, os dois ficam bem e ficam felizes... e fazem muitas coisas juntos como amigos e namorados que são."
-        btnText="Continuar"
+        title="After that..."
+        text="After everything is resolved, the two are fine and happy... and do many things together like friends and lovers that they are."
+        btnText="Continue"
         sequency="12"
       />
       <Screen
         imageUrl={ursinhos_caminhada}
         bgColor={colors.pink}
         textColor={colors.white}
-        title="Eles caminham juntos"
-        text="Os dois adoram caminhar juntos, riem bastante principalmente das 'zinimiga' da pandinha. ~risos"
-        btnText="Caminhando..."
+        title="They walk together"
+        text="The two love walking together, they laugh a lot, especially at the Panda's 'enemies'. ~laughs"
+        btnText="Walking..."
         sequency="13"
       />
       <Screen
         imageUrl={ursinhos_fotinha}
         bgColor={colors.green}
         textColor={colors.white}
-        title="Hoje eles tiram fotos juntos"
-        text="A pandinha quer sair perfeitinha nas fotos sempre pede para o ursinho tirar de novo ~risos"
-        btnText="Mais fotinhas..."
+        title="Today they take photos together"
+        text="The Panda wants to look perfect in the photos, she always asks the Teddy Bear to take it again ~laughs"
+        btnText="More photos..."
         sequency="14"
       />
       <Screen
         imageUrl={ursinhos_bebida}
         bgColor={colors.purple}
         textColor={colors.white}
-        title="Bebem juntos"
-        text="Ursinho e pandinha adoram beber juntos, e curtir os bons momentos com algumas músicas"
-        btnText="bebidas depois..."
+        title="Drink together"
+        text="Teddy Bear and Panda love to drink together, and enjoy good times with some music"
+        btnText="drinks after..."
         sequency="15"
       />
       <Screen
         imageUrl={ursinha_mordidas}
         bgColor={colors.blue}
         textColor={colors.white}
-        title="A ursinha fica brincando com o ursinho"
-        text="Parece divertido olhando assim hahaha ... para a ursinha é claro... olha o coitado do ursinho, olha a cara pandinha! ~coitado_gente"
-        btnText="Mordidas depois..."
+        title="The Panda plays with the Teddy Bear"
+        text="It looks fun looking at it like that hahaha... for the Panda of course... look at the poor Teddy Bear, look at his face! ~poor teddy"
+        btnText="Bites later..."
         sequency="16"
       />
       <Screen
         imageUrl={ursinho_pegando_no_sono}
         bgColor={colors.purple}
         textColor={colors.white}
-        title="A noite"
-        text="Mas todos os dias, quando o ursinho não aguenta mais ficar acordado convernsando com a pandinha, eles se despedem e fingem dormir juntinhos"
-        btnText="Cochiladas mais tarde..."
+        title="At night"
+        text="But every day, when the Teddy Bear can no longer stay awake and talk to the little Panda, they say goodbye and pretend to sleep together."
+        btnText="Sleep later..."
         sequency="17"
       />
       <Screen
         imageUrl={ursinhos_dormindo}
         bgColor={colors.blue}
         textColor={colors.white}
-        title="E finalmente dormem"
-        text="Viu eles tem momentos dificeis as vezes, e choram, e ficam irritados... mas quando tudo fica no seu lugar, eles se amam bastante e riem."
-        btnText="Eles dormem"
+        title="And finally they sleep"
+        text="You see, they have difficult moments sometimes, and they cry, and they get angry... but when everything falls into place, they love each other a lot and laugh."
+        btnText="They sleep"
         sequency="18"
       />
       <Screen
-        imageUrl={eddyS2Lidiane}
-        bgColor={colors.red}
+        imageUrl={my_lovely_girl}
+        bgColor={colors.pink}
         textColor={colors.white}
-        title="Feliz dia dos namorados"
-        text="Finalmente pensei em algo que ninguem nunca lhe deu e que nunca dei a alguem... Espero que tenha gostado. Te amo Lidiane como nunca Amei alguem... ~Eddy"
-        btnText="Fim"
+        title="Happy Valentine's Day"
+        text="I finally thought of something that no one has ever given you and that I have never given to anyone... I hope you liked it. I love you Ayeshaku like never before I loved someone... ~Romi"
+        btnText="Love You Forever"
         sequency="19"
       />
     </div>

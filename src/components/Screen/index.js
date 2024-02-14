@@ -3,6 +3,9 @@ import "./styles.css";
 import { Link } from "react-scroll";
 
 const Screen = (props) => {
+
+  const nextSequency = Number(props.sequency) === 19 ? 1 : Number(props.sequency) + 1;
+
   return (
     <div id={Number(props.sequency)} className="screen-full" style={{background: props.bgColor, color: props.textColor}}>
       <div className="container">
@@ -16,7 +19,7 @@ const Screen = (props) => {
         <footer>
           <Link
             activeClass="active"
-            to={Number(props.sequency) + 1}
+            to={nextSequency}
             spy={true}
             smooth={true}
             offset={0}
